@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samila</h1>
-<h3 align="center">A passionate frontend developer from Kanyakumari</h3>
+<h3 align="center">A passionate Web developer from Kanyakumari</h3>
 
 - 🌱 I’m currently learning **React JS**
 
